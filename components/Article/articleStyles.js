@@ -52,10 +52,8 @@ const articleStyles = {
     lineHeight: '17px',
     color: '#fff'
   },
-  text: {
-    marginTop: '632px'
-  },
   pLead: {
+    marginTop: '632px',
     marginBottom: '20px',
     textAlign: 'center',
     fontSize: '20px',
