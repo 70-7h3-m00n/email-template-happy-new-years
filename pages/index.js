@@ -29,12 +29,7 @@ const Home = ({ data }) => {
       <EmailWrapper>
         <HeaderLogo />
         <HeaderLinks />
-        <Banner />
-        <Hello />
         <Article />
-        <ChooseProgram />
-        <Articles />
-        <Rate />
         <FooterContacts />
         <FooterLinks />
         <Footer />

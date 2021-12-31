@@ -20,11 +20,11 @@ const articleStyles = {
   column: {
     backgroundColor: '#9035D3',
     backgroundImage:
-      "url('https://res.cloudinary.com/npoipe/image/upload/v1635665594/emal%20template%20halloween/story_mhlc6t.jpg')",
+      "url('https://res.cloudinary.com/npoipe/image/upload/v1640941939/email-template-happy-new-years/body_otfj3f.jpg')",
     backgroundRepeat: 'no-repeat',
     minWidth: '600px',
     width: '600px',
-    minHeight: '604px',
+    minHeight: '1196px',
     height: '100%'
   },
   prize: {
@@ -52,16 +52,22 @@ const articleStyles = {
     lineHeight: '17px',
     color: '#fff'
   },
-  p: {
-    backgroundColor: '#7D22BF',
-    padding: '20px',
-    marginTop: '246px',
-    marginBottom: '0',
+  text: {
+    marginTop: '632px'
+  },
+  pLead: {
+    marginBottom: '20px',
     textAlign: 'center',
-    marginLeft: '10px',
-    marginRight: '10px',
-    fontSize: '14px',
-    fontWeight: 300,
+    fontSize: '20px',
+    fontWeight: 400,
+    lineHeight: '26px',
+    color: '#fff'
+  },
+  p: {
+    marginBottom: '20px',
+    textAlign: 'center',
+    fontSize: '16px',
+    fontWeight: 400,
     lineHeight: '21px',
     color: '#fff'
   },
