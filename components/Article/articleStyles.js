@@ -20,12 +20,13 @@ const articleStyles = {
   column: {
     backgroundColor: '#9035D3',
     backgroundImage:
-      "url('https://res.cloudinary.com/npoipe/image/upload/v1640941939/email-template-happy-new-years/body_otfj3f.jpg')",
+      "url('https://res.cloudinary.com/npoipe/image/upload/v1640942800/email-template-happy-new-years/body_umlsow.jpg')",
     backgroundRepeat: 'no-repeat',
     minWidth: '600px',
     width: '600px',
     minHeight: '1196px',
-    height: '100%'
+    height: '100%',
+    paddingTop: '632px'
   },
   prize: {
     marginTop: '-10px',
@@ -53,7 +54,6 @@ const articleStyles = {
     color: '#fff'
   },
   pLead: {
-    marginTop: '632px',
     marginBottom: '20px',
     textAlign: 'center',
     fontSize: '20px',
